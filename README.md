@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="/images/header-image.png" width="100" height="100">
 # Aditya Chaugule
 ## Robotics Graduate Student at University of Maryland, College Park
 
