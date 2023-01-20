@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header Image](/images/header-image.png| width=100)
+![Header Image](/images/header-image.png =100x100)
 # Aditya Chaugule
 ## Robotics Graduate Student at University of Maryland, College Park
 
