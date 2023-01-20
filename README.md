@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![Header Image](/images/header-image.jpg)
+-->
+
+![Header Image](/images/header-image.jpg)
 # Aditya Chaugule
 ## Robotics Graduate Student at University of Maryland, College Park
 
