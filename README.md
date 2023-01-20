@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Aditya Chaugule
+## Robotics Graduate Student at University of Maryland, College Park
+
+## 📫 Contact
+- Email: adityachaugule1997@gmail.com
+- LinkedIn: [Aditya Chaugule](https://www.linkedin.com/in/johnsmith)
+- GitHub: [Aditya Chaugule](https://github.com/Tys0nus)
