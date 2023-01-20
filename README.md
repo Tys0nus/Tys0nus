@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ## 📫 Contact
 - Email: adityachaugule1997@gmail.com
-- LinkedIn: [Aditya Chaugule](https://www.linkedin.com/in/johnsmith)
+- LinkedIn: [Aditya Chaugule](https://www.linkedin.com/in/adityachaugule)
 - GitHub: [Aditya Chaugule](https://github.com/Tys0nus)
