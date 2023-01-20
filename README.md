@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 # Aditya Chaugule
 ## Robotics Graduate Student at University of Maryland, College Park
 
+## ⚙️ Technology Stack
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 ## 📫 Contact
 - Email: adityachaugule1997@gmail.com
 - LinkedIn: [Aditya Chaugule](https://www.linkedin.com/in/adityachaugule)
 - GitHub: [Aditya Chaugule](https://github.com/Tys0nus)
+
+
