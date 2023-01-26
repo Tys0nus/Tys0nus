@@ -31,6 +31,4 @@ Here are some ideas to get you started:
 - GitHub: [Aditya Chaugule](https://github.com/Tys0nus)
 - Portfolio: https://tys0nus.github.io/
 
-![](https://github.com/Tys0nus/Tys0nus/blob/main/Resources/IntroGit.gif)
-
-
+<img src="https://github.com/Tys0nus/Tys0nus/blob/main/Resources/IntroGit.gif)" width="250" height="250"/>
