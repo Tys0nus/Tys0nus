@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 # Aditya Chaugule
 ## Robotics Graduate Student at University of Maryland, College Park
 
+- ENPM661 - Planning for Autonomous Systems     
+- ENPM673 - Perception for Autonomous Systems
+- ENPM808Z - Cognitive Robotics
+
+- ENPM667 - Control of Robotic Systems
+- ENPM662 - Introduction to Robot Modelling
+- ENPM809Y - Introductory Robot Programming
+
 ### ⚙️ Technology Stack
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
