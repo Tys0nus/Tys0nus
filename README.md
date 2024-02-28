@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Aditya Chaugule
 ## Robotics Graduate Student at University of Maryland, College Park
 
-Cognitive Robotics | Planning and Planning for Autonomous Systems | Control of Robotic System | Robot Modelling & Programming
+Cognitive Robotics | Visual Learning & Recognition | Natural Language Processing | Planning and Planning for Autonomous Systems | Control of Robotic System | Robot Modelling & Programming
 
 ### ⚙️ Technology Stack
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
