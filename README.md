@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Robotics Graduate Student at University of Maryland, College Park
 
 Cognitive Robotics | Visual Learning & Recognition | Natural Language Processing | Foundations of Deep Learning
+
 Perception – Planning – Control for Robotic Systems | Rehabilitation Robotics | Robot Modelling & Programming
 
 ### ⚙️ Technology Stack
