@@ -30,7 +30,7 @@ Perception – Planning – Control for Robotic Systems | Rehabilitation Robotic
 <br />
 
 ## 📫 Contact
-- Email: adityachaugule1997@gmail.com
+- Email: aditya97@umd.edu | adityachaugule1997@gmail.com
 - LinkedIn: [Aditya Chaugule](https://www.linkedin.com/in/adityachaugule)
 - GitHub: [Aditya Chaugule](https://github.com/Tys0nus)
 - Portfolio: https://tys0nus.github.io/
